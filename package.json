@@ -1,0 +1,20 @@
+{
+  "name": "test-technique-titre-rncp-v",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+   
+    "crypto-js": "^4.2.0",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.0",
+    "mongoose": "^8.3.4",
+    "uid2": "^1.0.0"
+  }
+}
